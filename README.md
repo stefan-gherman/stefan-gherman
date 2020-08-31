@@ -57,6 +57,7 @@ Currently Based in: [Bucharest, Romania](https://www.google.com/search?q=buchare
 
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/stefan-gherman/stefan-gherman/master/dev/%20frameworks/%20postman.png" alt="Postman" style="vertical-align:top; margin:4px">
 
 </p>
 
