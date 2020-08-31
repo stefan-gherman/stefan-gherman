@@ -22,7 +22,7 @@ Currently Based in: [Bucharest, Romania](https://www.google.com/search?q=buchare
 <!-- <img src="https://github.com/stefan-gherman/stefan-gherman/blob/master/%20asp.net.svg" alt="ASP.NET" style="vertical-align:top; margin:4px">
 <img src="https://github.com/stefan-gherman/stefan-gherman/blob/master/%20linux.svg" alt="Linux" style="vertical-align:top; margin:4px"> -->
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
-<img src="https://github.com/stefan-gherman/stefan-gherman/blob/master/%20github.svg" alt="GitHub" style="vertical-align:top; margin:4px">
+<img src="dev\ frameworks\ github.svg" alt="GitHub" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="VSCode" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" alt="PyCharm" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="IntelliJ" style="vertical-align:top; margin:4px">
