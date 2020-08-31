@@ -11,7 +11,7 @@ Currently Based in: [Bucharest, Romania](https://www.google.com/search?q=buchare
   
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
 
-
+<img src="https://raw.githubusercontent.com/stefan-gherman/stefan-gherman/master/dev/%20frameworks/%20flask.png" alt="Flask" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top; margin:4px">
 
 
