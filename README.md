@@ -12,23 +12,19 @@ Currently Based in: [Bucharest, Romania](https://www.google.com/search?q=buchare
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
-<!-- <img src="https://raw.githubusercontent.com/stefan-gherman/stefan-gherman/master/%20flask.png" alt="Flask" style="vertical-align:top; margin:4px"> -->
-<!-- <img src="https://github.com/stefan-gherman/stefan-gherman/blob/master/%20postgresql.svg" alt="HTML5" style="vertical-align:top; margin:4px"> -->
+
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/jquery.svg" alt="JQuery" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="C#" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
-<!-- <img src="https://github.com/stefan-gherman/stefan-gherman/blob/master/%20asp.net.svg" alt="ASP.NET" style="vertical-align:top; margin:4px">
-<img src="https://github.com/stefan-gherman/stefan-gherman/blob/master/%20linux.svg" alt="Linux" style="vertical-align:top; margin:4px"> -->
+
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
-<img src="dev\ frameworks\ github.svg" alt="GitHub" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="VSCode" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" alt="PyCharm" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="IntelliJ" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
-<!-- <img src="https://github.com/stefan-gherman/stefan-gherman/blob/master/%20postman.svg" alt="Postman" style="vertical-align:top; margin:4px">
-<img src="https://github.com/stefan-gherman/stefan-gherman/blob/master/%20gitKraken.svg" alt="GitKraken" style="vertical-align:top; margin:4px"> -->
+
 </p>
 
   ### 🔔Contact🔔
