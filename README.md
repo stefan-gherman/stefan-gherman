@@ -34,7 +34,7 @@ Currently Based in: [Bucharest, Romania](https://www.google.com/search?q=buchare
 
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="C#" style="vertical-align:top; margin:4px">
-
+<img src="https://raw.githubusercontent.com/stefan-gherman/stefan-gherman/master/dev/%20frameworks/%20asp.net.png" alt="C#" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
 
