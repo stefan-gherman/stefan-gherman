@@ -21,6 +21,7 @@ Currently Based in: [Bucharest, Romania](https://www.google.com/search?q=buchare
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
 
 
+<img src="https://raw.githubusercontent.com/stefan-gherman/stefan-gherman/master/dev/%20frameworks/%20postgresql.png" alt="PostgreSql" style="vertical-align:top; margin:4px">
 
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:4px">
