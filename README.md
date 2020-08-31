@@ -8,21 +8,51 @@ Currently Based in: [Bucharest, Romania](https://www.google.com/search?q=buchare
 ### ⭐Languages and Tools⭐
 
 <p align="left">
+  
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+
+
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top; margin:4px">
+
+
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top; margin:4px">
+
+
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
 
+
+
+
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:4px">
+
+
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/jquery.svg" alt="JQuery" style="vertical-align:top; margin:4px">
+
+
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
+
+
+
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="C#" style="vertical-align:top; margin:4px">
+
+
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
 
+<img src="https://raw.githubusercontent.com/stefan-gherman/stefan-gherman/master/dev/%20frameworks/%20github.png" alt="GitHub" style="vertical-align:top; margin:4px">
+
+
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
+
+
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="VSCode" style="vertical-align:top; margin:4px">
+
+
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" alt="PyCharm" style="vertical-align:top; margin:4px">
+
+
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="IntelliJ" style="vertical-align:top; margin:4px">
+
+
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
 
 </p>
